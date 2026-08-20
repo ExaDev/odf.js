@@ -1,5 +1,7 @@
 # odf.js
 
+> **This repository has moved.** `odf.js` now lives at [`packages/odf.js`](https://github.com/ExaDev/documents.js/tree/main/packages/odf.js) in the [`ExaDev/documents.js`](https://github.com/ExaDev/documents.js) monorepo. This repository is archived and will receive no further commits, releases, issues, or pull requests — file issues and send pull requests against the monorepo instead. The npm package itself is unaffected: `odf.js` keeps publishing from its new home under the same name.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/odf.js) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/odf.js) [![Release](https://img.shields.io/github/v/release/ExaDev/odf.js)](https://github.com/ExaDev/odf.js/releases/latest) [![CI](https://img.shields.io/github/actions/workflow/status/ExaDev/odf.js/ci.yml?branch=main)](https://github.com/ExaDev/odf.js/actions)
 
 > A hand-written, dependency-minimal codec for the OpenDocument Format (ODF — OASIS/ISO 26300): `.odt`/`.ods`/`.odp`/`.odg`/`.odf`/`.odb`/`.odm` and their template variants, built on [Zod 4](https://zod.dev) codecs.
